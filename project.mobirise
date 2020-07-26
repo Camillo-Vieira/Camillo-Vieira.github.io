@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-24_2157",
+    "name": "teste1",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -41,7 +41,14 @@
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "modified": "2020-07-25T00:58:09.323Z",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
